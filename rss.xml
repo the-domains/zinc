@@ -4,21 +4,21 @@
         <description><![CDATA[zinc]]></description>
         <link>https://thegrid.ai/zinc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jul 2016 12:47:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2016 12:47:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/zinc/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hello Medical World!]]></title>
+            <description><![CDATA[<article><h1>Hello Medical World!</h1><h2>This is the first post on Zinc.</h2><p> Not a lot to talk about yet but we'll se...</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2d2327ea-5b5a-490e-b648-2c9e497e6e66.jpg"></article>]]></description>
+            <link>https://thegrid.ai/zinc/hello-medical-world/index.html</link>
+            <guid isPermaLink="false">20c39b60-35df-4ccf-ad82-c0cacd59c4ea</guid>
+            <pubDate>Fri, 22 Jul 2016 12:47:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hello]]></title>
             <description><![CDATA[<article><h1>Hello</h1><p>This is a thing that is happening</p></article>]]></description>
             <link>https://thegrid.ai/zinc/hello/index.html</link>
             <guid isPermaLink="false">f2e210a2-6a17-4eb7-95fb-23a955225abd</guid>
             <pubDate>Fri, 22 Jul 2016 12:47:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Hello Medical World!</p>]]></description>
-            <link>https://thegrid.ai/zinc/hello-medical-world/index.html</link>
-            <guid isPermaLink="false">20c39b60-35df-4ccf-ad82-c0cacd59c4ea</guid>
-            <pubDate>Fri, 22 Jul 2016 12:40:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
