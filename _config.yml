@@ -1,7 +1,7 @@
 name: zinc
 favicon: null
-layout_spectrum: 0.6745306302327663
-typography_spectrum: 0.8103709355928004
+layout_spectrum: 1
+typography_spectrum: 0.19
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#459886'
     - '#2b675b'
   brandStrength: 0.375
-  lightness: 0
+  lightness: 1
   saturation: 0.875
   rhythmicContrast: 1
 purpose: []
