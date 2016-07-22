@@ -4,8 +4,15 @@
         <description><![CDATA[zinc]]></description>
         <link>https://thegrid.ai/zinc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jul 2016 12:47:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2016 12:50:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/zinc/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Title]]></title>
+            <description><![CDATA[<article><h1>Title</h1><p>THis is the text</p></article>]]></description>
+            <link>https://thegrid.ai/zinc/title/index.html</link>
+            <guid isPermaLink="false">4ae91454-4704-4eb3-b32b-22942ac8be7d</guid>
+            <pubDate>Fri, 22 Jul 2016 12:50:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hello Medical World!]]></title>
             <description><![CDATA[<article><h1>Hello Medical World!</h1><h2>This is the first post on Zinc.</h2><p> Not a lot to talk about yet but we'll se...</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2d2327ea-5b5a-490e-b648-2c9e497e6e66.jpg"></article>]]></description>
