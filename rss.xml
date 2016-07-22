@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[zinc]]></title>
         <description><![CDATA[zinc]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/zinc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jul 2016 12:37:56 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 22 Jul 2016 12:41:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/zinc/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Hello Medical World!</p>]]></description>
-            <link>undefinedhello-medical-world/index.html</link>
+            <link>https://thegrid.ai/zinc/hello-medical-world/index.html</link>
             <guid isPermaLink="false">20c39b60-35df-4ccf-ad82-c0cacd59c4ea</guid>
-            <pubDate>Fri, 22 Jul 2016 12:37:55 GMT</pubDate>
+            <pubDate>Fri, 22 Jul 2016 12:40:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
